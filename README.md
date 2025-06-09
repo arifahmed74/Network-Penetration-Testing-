@@ -111,6 +111,6 @@ This project demonstrated the risks present in wireless networks and the importa
 
 ## 📂 How to View the Presentation
 
-[📑 Download PowerPoint Presentation](./docs/Wireless_Penetration_Testing_Group8.pptx)  
+📄 [View or Download the PDF Presentation](docs/Wireless_Penetration_Testing_Group8.pdf)
 
 
